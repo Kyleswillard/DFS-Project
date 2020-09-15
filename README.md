@@ -28,3 +28,7 @@ Back End: Python/Flask/Postgres
 
 The Current Time Frame for Phase one of this project is Q1/Q2 2021.
 
+#Changelog:
+9/15/2020 - Version One mockups have been added to project
+
+

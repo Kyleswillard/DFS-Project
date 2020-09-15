@@ -18,11 +18,9 @@ This DFS app long term will be a full featured Fantasy Football web application.
 
 #Tech Stack:
 
-Front End: React/Redux/MaterialUI/Typescript*
-Back End: Python/Flask/Postgres
+Front End: React/Redux/MaterialUI
+Back End: Python/Flask/Postgres - May change to Node.js/Express/Postgres
 
-
-*Potentially will add.
 
 #Timeframe:
 
@@ -31,4 +29,32 @@ The Current Time Frame for Phase one of this project is Q1/Q2 2021.
 #Changelog:
 9/15/2020 - Version One mockups have been added to project
 
+#Roadmap:
+Release Cycle will be at 3 Month cadance after initial 2 releases. 
 
+Initial Release 
+- Basic functionality
+- Auth0 Signup/Login - Facebook, Twitter, Google
+
+1 Month Release
+- Bug Fix
+- Implimentation of Player Card
+- Light/Dark Mode Toggle (Dark Mode Default)
+
+3 Month Release
+- Implimentation of Desktop Chat
+- Bug Fix
+
+6 Month Release
+- Implimentation of Budget System
+- Implimentation of Mobile Chat
+- Bug Fix
+
+12 Month Release
+- Bug fix
+- UI Tweaks
+- Implimentation of CMS for League Managers
+
+15 Month Release
+- Implimentation of Multiple Leagues
+- Implimentation of Paywall & Subscription (Annual League) - Stripe

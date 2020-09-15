@@ -62,4 +62,5 @@ Initial Release
 
 18 Month Release
 - Implimentation of Desktop Application via Electron
+- Implimentation of React Native App for mobile
 - Bug Fix

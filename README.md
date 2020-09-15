@@ -21,6 +21,7 @@ This DFS app long term will be a full featured Fantasy Football web application.
 Front End: React/Redux/MaterialUI/Typescript*
 Back End: Python/Flask/Postgres
 
+
 *Potentially will add.
 
 #Timeframe:

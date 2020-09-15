@@ -58,3 +58,8 @@ Initial Release
 15 Month Release
 - Implimentation of Multiple Leagues
 - Implimentation of Paywall & Subscription (Annual League) - Stripe
+- Bug Fix
+
+18 Month Release
+- Implimentation of Desktop Application via Electron
+- Bug Fix
